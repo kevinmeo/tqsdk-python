@@ -1,0 +1,2 @@
+./sync_with_upstream.sh
+在终端输入上述代码即可更新上游仓库
